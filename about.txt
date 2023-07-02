@@ -1,0 +1,2 @@
+Creating a simple graphical user interface(GUI) that across multiple platfroms can be compliated.but it doesn't have to be that way.you can use python and the PySimple GUI package to create nice-looking user interfaces that you and your users will enjoy.
+Python Tkinter is used to make differnt form of GUI. It is easy to use .As python is very friendly language
